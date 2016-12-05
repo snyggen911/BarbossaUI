@@ -58,7 +58,8 @@
         <p><?php if($_SERVER["SERVER_ADDR"] != $_SERVER["REMOTE_ADDR"]) {
 			echo "SWING BABY, SWING!";
 		} else {
-			echo "Site created 2016-12-04 @ 20:44 EST Time.";
+			echo "Site created 2016-12-04 @ 20:44 EST Time.<br>You are choosing to do this, not me.<br>
+			I am not responsible for your actions.";
 		}
 		?></p>
       </div>
